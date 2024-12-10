@@ -17,7 +17,7 @@ This is an Online Medicine selling system
    
    ID: 21225103334
 
-   https://github.com/Mahadeujjaman
+   https://github.com/riaz-344
     
    Name:Mohammad Riaz
    
